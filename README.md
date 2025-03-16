@@ -17,14 +17,14 @@ A **Next.js** application that displays the latest **ICC cricket rankings**. The
    - **UI Components:** shadCN/UI
 
 ## Installation:
-1.**clone the repository** 
-2.**run npm install in the project**
-3.**npm run dev**
+1.**clone the repository** <br>
+2.**run npm install in the project** <br>
+3.**npm run dev** <br>
 
 ## sampleUser:
 - If you want to login directly and not create a user to test, you can use the following user:
-   -**email:** suraj@gmail.com
-   -**password:**surajGiri123
+   -**email:** suraj@gmail.com <br>
+   -**password:**surajGiri123 <br>
 
  you can also create your own user
      
