@@ -22,9 +22,9 @@ A **Next.js** application that displays the latest **ICC cricket rankings**. The
 3.**npm run dev** <br>
 
 ## sampleUser:
-- If you want to login directly and not create a user to test, you can use the following user:
+- If you want to login directly and not create a user to test, you can use the following user:<br>
    -**email:** suraj@gmail.com <br>
-   -**password:**surajGiri123 <br>
+   -**password:** surajGiri123 <br>
 
  you can also create your own user
      
